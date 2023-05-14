@@ -10,7 +10,7 @@
   <h2 align="left" dir="auto">About me</h2>
   <div>
     <p>🎓 Graduated at VNUHCM-University of Science</p>
-    <p>🔭 I’m currently Middle Front-end Developer 😉 </p>
+    <p>🔭 I’m currently Middle Front-end Developer</p>
     <p>👨‍💻 All of my projects are available at <a href="">profile</a></p>
     <p>📝 I regularly write articles on <a href="">blog</a></p>
   </div>
