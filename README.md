@@ -1,9 +1,8 @@
 <div id="header" >
     <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/>
-    <h1 align="left">Hi 👋, I'm Bang</h1>
-    <p align="left">
-    I'm a front-end developer with more than 3+ years of professional experience. I like learning and experimenting with new technologies as they come. I work with developers from enterprises, startups, and open-source communities to build their apps & solutions.
-    </p>
+    <h1 align="left">Hi 👋, I'm Bang </h1>
+    <p><img src="https://komarev.com/ghpvc/?username=bangsite&label=Views&color=0e75b6&style=flat" alt="bangsite"/></p>
+    <p>I'm a front-end developer with more than 3+ years of professional experience. I like learning and experimenting with new technologies as they come. I work with developers from enterprises, startups, and open-source communities to build their apps & solutions.</p>
 </div>
 
 <div id="about">
@@ -74,19 +73,9 @@
 </div>
 
 <div>
-  <h3>GitHub Statistics</h3>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+  <h2>GitHub Statistics</h3>
+  <p><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=nightowl" /> </p>
 </div>
-
-<hr/>
-
-<p align="center">
- <a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
- <img style="max-width: 100%;" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/></a>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bangsite&label=Views&color=0e75b6&style=flat" alt="bangsite"/>
+<p><a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
+ <img height="60px" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/></a>
 </p>
