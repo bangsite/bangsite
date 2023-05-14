@@ -19,12 +19,12 @@
 <h4 align="left">Connect with me:</h4>
 
 <div align="left">
-  <a href="mailto:phambang.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bangsite" height="30"/></a>
-  <a href="https://www.linkedin.com/in/bangsite/"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bangsite" height="30" /></a>
-  <a href="https://codepen.io/bangsite" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="bangsite" height="30"/></a>
-  <a href="https://dribbble.com/buiuxdev" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="buiuxdev" height="30"/></a>
-  <a href="https://www.hackerrank.com/bangsite" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bangsite" height="30"/></a>
-  <a href="https://www.leetcode.com/bangsite" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bangsite" height="30"/></a>
+  <a href="mailto:phambang.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bangsite" height="30"/></a>
+  <a href="https://www.linkedin.com/in/bangsite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bangsite" height="30" /></a>
+  <a href="https://codepen.io/bangsite" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="bangsite" height="30"/></a>
+  <a href="https://dribbble.com/buiuxdev" target="blank"><img  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="buiuxdev" height="30"/></a>
+  <a href="https://www.hackerrank.com/bangsite" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bangsite" height="30"/></a>
+  <a href="https://www.leetcode.com/bangsite" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bangsite" height="30"/></a>
 </div>
 
 <div id="tech">
