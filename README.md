@@ -74,8 +74,13 @@
 
 <div>
   <h2>GitHub Statistics</h3>
-  <p><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=nightowl" /> </p>
-</div>
+  <p align="top" width="100%">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=nightowl" /> 
+    <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsite&theme=nightowl" /> 
+  </p>
+</div>                    
+                             
 <p><a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
- <img height="60px" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/></a>
+ <img height="30px" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/></a>
 </p>
