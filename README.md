@@ -75,10 +75,11 @@
 <div>
   <h2>GitHub Statistics</h3>
   <p align="top" width="100%">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=vue-dark" /> 
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsite&theme=vue-dark" /> 
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=vue-dark" /> 
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+<!--     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsite&theme=vue-dark" />  -->
   </p>
+  
 </div>                    
                              
 <p><a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
