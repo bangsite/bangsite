@@ -84,7 +84,7 @@
     </p>
 </div> 
     
-## GitHub Contributions Grid Snake 🐍
+## GitHub Contributions Snake 🐍
 <p align='center'>
     <img src="https://github.com/bangsite/bangsite/blob/output/github-contribution-grid-snake.gif">
 </p>
