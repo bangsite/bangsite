@@ -73,13 +73,14 @@
 </div>
 
 <div>
-    <h2>GitHub Statistics</h3>
+    <h2>GitHub Statistics</h2>
     <table>
        <td><img src="https://github-readme-stats.vercel.app/api?username=bangsite&amp;show_icons=true&amp;count_private=true&amp;theme=vue&amp;hide=issues&amp;line_height=32"> </td>
        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&amp;"> </td>
     </table>
+    <h2>GitHub Profile Trophy</h2>
     <p align='center'>
-    <img src="https://github-profile-trophy.vercel.app/?username=bangsite&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+    <img src="https://github-profile-trophy.vercel.app/?username=bangsite&margin-w=15&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
     </p>
 </div> 
     
