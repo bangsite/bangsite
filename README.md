@@ -73,15 +73,23 @@
 </div>
 
 <div>
-  <h2>GitHub Statistics</h3>
-  <p align="top" width="100%">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=bangsite&show_icons=true&locale=en&include_all_commits=true&count_private=true&line_height=21&theme=vue-dark" /> 
-    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&&hide=html&hide_title=true&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
-<!--     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsite&theme=vue-dark" />  -->
-  </p>
-  
-</div>                    
+    <h2>GitHub Statistics</h3>
+    <table>
+       <td >  <img src="https://github-readme-stats.vercel.app/api?username=bangsite&amp;show_icons=true&amp;count_private=true&amp;theme=vue&amp;hide=issues&amp;line_height=32"> </td>
+        <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bangsite&amp;"> </td>
+    </table>
+    <p align='center'>
+    <img src="https://github-profile-trophy.vercel.app/?username=bangsite&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+    </p>
+</div> 
+    
+## Just a snake eating my contributions 🐍
+<p align='center'>
+    <img src="https://github.com/bangsite/bangsite/blob/output/github-contribution-grid-snake.gif">
+</p>
                              
-<p><a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
- <img height="30px" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/></a>
+<p align='center'>
+    <a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
+        <img height="30px" src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com'  alt="Buy Me a Coffee at ko-fi.com"/>
+    </a>
 </p>
