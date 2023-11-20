@@ -19,7 +19,7 @@
 
 <div align="left">
   <a href="mailto:phambang.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bangsite" height="30"/></a>
-  <a href="https://www.linkedin.com/in/bangsite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bangsite" height="30" /></a>
+  <a href="https://www.linkedin.com/in/pham-bang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bangsite" height="30" /></a>
   <a href="https://www.facebook.com/bangmixin" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook" height="30"/></a>
   <a href="https://codepen.io/bangsite" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="bangsite" height="30"/></a>
   <a href="https://dribbble.com/buiuxdev" target="blank"><img  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="buiuxdev" height="30"/></a>
