@@ -91,10 +91,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bangsite/bangsite/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align='center'>
-    <img src="https://github.com/bangsite/bangsite/blob/output/github-contribution-grid-snake.gif">
-</p>
-
                              
 <p align='center'>
     <a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
