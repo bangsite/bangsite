@@ -86,14 +86,15 @@
     
 ## GitHub Contributions Snake 🐍
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake-dark.svg?palette=github-light" />
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bangsite/bangsite/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bangsite/bangsite/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bangsite/bangsite/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align='center'>
     <img src="https://github.com/bangsite/bangsite/blob/output/github-contribution-grid-snake.gif">
 </p>
+
                              
 <p align='center'>
     <a href='https://ko-fi.com/A0A6LA96E' target='_blank'>
