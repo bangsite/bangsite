@@ -1,22 +1,18 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
 
 on:
   # run automatically every 24 hours
   schedule:
-      # every 6 hours
     - cron: "0 */24 * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
+  # allows to manually run the job at any time
   workflow_dispatch:
   
-# run on every push on the master branch
+  # run on every push on the master branch
   push:
     branches:
     - main
 
-# The sequence of runs in this workflow:
 jobs:
    generate:
     permissions: 
@@ -41,6 +37,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dir
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
