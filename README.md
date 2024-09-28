@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/>
     <h1 align="left">Hi 👋, I'm Bang </h1>
     <p><img src="https://komarev.com/ghpvc/?username=bangsite&label=Views&color=0e75b6&style=flat" alt="bangsite"/></p>
-    <p>I'm a front-end developer with more than 3+ years of professional experience. I like learning and experimenting with new technologies as they come. I work with developers from enterprises, startups, and open-source communities to build their apps & solutions.</p>
+    <p>I'm a Frontend developer with over 4 years of expertise in web development, specializing in Vue, Nuxt, JavaScript, TypeScript, and UI libraries such as Tailwind and Ant Design. Familiar with React, and Node.js, with a strong foundation in constructing, maintaining, and optimizing websites. Proficient at translating designs into dynamic interfaces and enhancing UX/UI. I like learning and experimenting with new technologies as they come. </p>
 </div>
 
 <div id="about">
