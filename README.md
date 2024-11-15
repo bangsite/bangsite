@@ -2,7 +2,8 @@
     <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="100"/>
     <h1 align="left">Hi 👋, I'm Bang </h1>
     <p><img src="https://komarev.com/ghpvc/?username=bangsite&label=Views&color=0e75b6&style=flat" alt="bangsite"/></p>
-    <p>I'm a passionate Frontend Developer with over 4 years of experience delivering high-quality web applications. My expertise lies in modern frameworks like Vue.js and Nuxt 3, complemented by a solid foundation in JavaScript, TypeScript, and UI libraries such as Tailwind CSS and Ant Design. I've also worked with React and backend technologies like Node.js and MongoDB, allowing me to build seamless full-stack solutions.</p>
+    <p>I'm a passionate front-end developer with over 4 years of experience delivering high-quality web applications. My expertise lies in modern frameworks like Vue.js and Nuxt 3, complemented by a solid foundation in JavaScript, TypeScript, and UI libraries such as Tailwind CSS and Ant Design. I've also worked with React and backend technologies like Node.js and MongoDB, allowing me to build seamless full-stack solutions. </p>
+      <p>I excel at translating complex designs into responsive, accessible, and dynamic interfaces, always striving to enhance the user experience. Beyond development, I am strongly interested in optimizing web performance and exploring emerging technologies to stay ahead in the fast-paced tech landscape.</p>
 </div>
 
 <div id="about">
